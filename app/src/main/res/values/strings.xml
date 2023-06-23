@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Body Mass Index</string>
+    <string name="message">Hello, Isaque!</string>
+    <string name="message_classificacao"> Weight Range: %1$s!</string>
+</resources>
