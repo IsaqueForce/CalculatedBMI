@@ -12,7 +12,7 @@
         android:id="@+id/edittext_peso"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Digite seu peso"
+        android:hint="Enter you weight"
         android:maxLength="6"
         android:inputType="numberDecimal"/>
     
@@ -20,7 +20,7 @@
         android:id="@+id/edittext_altura"
         android:maxLength="6"
         android:inputType="numberDecimal"
-        android:hint="Digite sua altura"
+        android:hint="Enter your height"
         android:layout_marginTop="16dp"
         android:layout_below="@+id/edittext_peso"
         android:layout_width="match_parent"
