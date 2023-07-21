@@ -7,7 +7,7 @@ BMI Calculator was an app I created as my first foray into Android development. 
 <!-- You can add more screenshots here if you like -->
 <img src="/result/First.png" width="260">&emsp;<img src="/result/second.png" width="260">&emsp;<img src="/result/Third.png" width="260">
 
-## Tecnologias
+## Technology
 * Kotlin
 * Activity for screen host
 * ViewGroup
